@@ -25,7 +25,7 @@ knitr::include_graphics("images/chart.png")
 knitr::include_graphics("images/chart-2.png")
 ```
 
-Despite it can be funny to see these improbable correlations, we have to keep in mind that adopting the right approach to analyze data is a serious issue when doing research. In a [paper on the American Journal of Political Science](https://gking.harvard.edu/files/gking/files/epr.pdf) we can read, for instance: 
+Although it can be funny to see these improbable correlations, we have to keep in mind that adopting the right approach to analyze data is a serious issue when doing research. In a [paper on the American Journal of Political Science](https://gking.harvard.edu/files/gking/files/epr.pdf) we can read, for instance: 
 
 >The results of the analysis below strongly suggest that the way event counts have been analyzed in hundreds of important political science studies have produced statistically and substantively unreliable results. Misspecification, inefficiency, bias, inconsistency, insufficiency, and other problems result from the unknowing application of two common methods that are without theoretical justification or empirical utility in this type of data. 
 
